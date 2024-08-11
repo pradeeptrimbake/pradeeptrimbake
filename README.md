@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on brains.
+- 🌱 I’m currently learning Neuroscience.
+- 💬 Ask me about Anime, Games, Science and Badminton.
+- ⚡ Fun fact: Birds sleep while they are actively flying [read more](https://doi.org/10.1038/ncomms12468).
