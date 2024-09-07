@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on brains.
 - 🌱 I’m learning Neuroscience.
 - 💬 Ask me about Anime, Games, Science and Badminton.
-- ⚡ Fun fact: Birds sleep while they are actively flying [read more](https://doi.org/10.1038/ncomms12468).
+- ⚡ Fun fact: Birds sleep while they are flying [read more](https://doi.org/10.1038/ncomms12468).
 
